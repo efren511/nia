@@ -1,0 +1,25 @@
+IP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: GBWhatsApp/2.19.291 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-M105M Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.3 Chrome/63.0.3239.111 Mobile Safari/537.36IP: 189.218.236.186
+ User-Agent: WhatsApp/2.20.189 AIP: 2806:108e:16:4458:4459:6aac:e84d:2b5a
+ User-Agent: Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-M105M Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.3 Chrome/63.0.3239.111 Mobile Safari/537.36IP: 189.218.236.186
+ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 OPR/68.0.3618.125IP: 201.175.205.41
+ User-Agent: Mozilla/5.0 (Linux; Android 9; SM-J415G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
